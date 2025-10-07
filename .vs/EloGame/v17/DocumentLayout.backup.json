@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gregm\\source\\repos\\EloGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\games\\orderplayers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\games\\orderplayers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\orderplayersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\orderplayersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\leagues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\leagues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\leagues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\leagues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\controllers\\leagueposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:controllers\\leagueposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\data\\migrations\\20250930180134_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:data\\migrations\\20250930180134_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EloGame_b59c6e1c_a2ea_4b62_9612_1cde5a36be35/True/SqlTable/dbo.League.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\controllers\\leaguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:controllers\\leaguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\data\\migrations\\20251003151448_gameupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:data\\migrations\\20251003151448_gameupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\leagues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\leagues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\data\\migrations\\20251003125657_eloupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:data\\migrations\\20251003125657_eloupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\data\\migrations\\20251003175119_leagueuserupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:data\\migrations\\20251003175119_leagueuserupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\leaguepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\leaguepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\leagues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\leagues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\leagues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\leagues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\leaguepos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\leaguepos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\leaguepos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\leaguepos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|c:\\users\\gregm\\source\\repos\\elogame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2929CBB2-8EE1-4C30-ACEB-8DE71499C4B1}|EloGame.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Controllers\\GamesController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:49:57.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:00:20.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T18:37:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderPlayers.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Games\\OrderPlayers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\OrderPlayers.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Games\\OrderPlayers.cshtml",
+              "RelativeToolTip": "Views\\Games\\OrderPlayers.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T12:29:44.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPlayersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\OrderPlayersViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderPlayersViewModel.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\OrderPlayersViewModel.cs",
+              "RelativeToolTip": "Models\\OrderPlayersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:58:14.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Games\\Create.cshtml",
+              "RelativeToolTip": "Views\\Games\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T12:08:04.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leagues\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Leagues\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T17:39:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:37:12.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leagues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Index.cshtml",
+              "RelativeToolTip": "Views\\Leagues\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T12:40:30.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250930180134_Init.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20250930180134_Init.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250930180134_Init.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20250930180134_Init.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250930180134_Init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:47:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.League [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EloGame_b59c6e1c_a2ea_4b62_9612_1cde5a36be35/True/SqlTable/dbo.League.sql",
+              "ToolTip": "dbo.League [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-03T18:14:31.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251003151448_gameupdate.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20251003151448_gameupdate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251003151448_gameupdate.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20251003151448_gameupdate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251003151448_gameupdate.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:14:57.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaguesController.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\LeaguesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaguesController.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\LeaguesController.cs",
+              "RelativeToolTip": "Controllers\\LeaguesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:48:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "League.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\League.cs",
+              "RelativeDocumentMoniker": "Models\\League.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\League.cs",
+              "RelativeToolTip": "Models\\League.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:08:10.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leagues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Create.cshtml",
+              "RelativeToolTip": "Views\\Leagues\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T17:38:02.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251003125657_eloupdate.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20251003125657_eloupdate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251003125657_eloupdate.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20251003125657_eloupdate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251003125657_eloupdate.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:47:38.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251003175119_leagueUserUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20251003175119_leagueUserUpdate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251003175119_leagueUserUpdate.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\20251003175119_leagueUserUpdate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251003175119_leagueUserUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:51:21.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:45:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leagues\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Details.cshtml",
+              "RelativeToolTip": "Views\\Leagues\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T13:07:34.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leagues\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Leagues\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Leagues\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T17:39:04.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:00:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PerformancesController.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\PerformancesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerformancesController.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\PerformancesController.cs",
+              "RelativeToolTip": "Controllers\\PerformancesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:08:38.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:31:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\LeaguePos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\LeaguePos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\LeaguePos\\Create.cshtml",
+              "RelativeToolTip": "Views\\LeaguePos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T13:32:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\LeaguePos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\LeaguePos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\LeaguePos\\Index.cshtml",
+              "RelativeToolTip": "Views\\LeaguePos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T13:07:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:09:11.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T12:30:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Controllers\\PlayersController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:11:46.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\Performance.cs",
+              "RelativeDocumentMoniker": "Models\\Performance.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\Performance.cs",
+              "RelativeToolTip": "Models\\Performance.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:05:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LeaguePos.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\LeaguePos.cs",
+              "RelativeDocumentMoniker": "Models\\LeaguePos.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Models\\LeaguePos.cs",
+              "RelativeToolTip": "Models\\LeaguePos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:03:09.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaguePosController.cs",
+              "DocumentMoniker": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\LeaguePosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaguePosController.cs",
+              "ToolTip": "C:\\Users\\gregm\\source\\repos\\EloGame\\Controllers\\LeaguePosController.cs",
+              "RelativeToolTip": "Controllers\\LeaguePosController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:01:50.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

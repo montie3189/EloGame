@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model OrderPlayersViewModel
+
+@{
+    ViewData["Title"] = "OrderPlayers";
+}
+
+<h1>Finishing position</h1>
+
+<form asp-action="OrderPlayers" method="post">
+@for (int i = 0; i < Model.count; i++)
+{
+
+    <div class="row">
+        <div class="col-md-4">
+            
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="players[@i]" class="control-label"></label>
+                    <Select asp-for="players[@i]" class="form-control" />
+                    <span asp-validation-for="players[@i]" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            
+        </div>
+    </div>
+}
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
