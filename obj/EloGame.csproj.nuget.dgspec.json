@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gregm\\source\\repos\\EloGame\\EloGame.csproj": {}
+    "/Users/gregor-montgomerie/Projects/EloGame/EloGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gregm\\source\\repos\\EloGame\\EloGame.csproj": {
+    "/Users/gregor-montgomerie/Projects/EloGame/EloGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gregm\\source\\repos\\EloGame\\EloGame.csproj",
+        "projectUniqueName": "/Users/gregor-montgomerie/Projects/EloGame/EloGame.csproj",
         "projectName": "EloGame",
-        "projectPath": "C:\\Users\\gregm\\source\\repos\\EloGame\\EloGame.csproj",
-        "packagesPath": "C:\\Users\\gregm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gregm\\source\\repos\\EloGame\\obj\\",
+        "projectPath": "/Users/gregor-montgomerie/Projects/EloGame/EloGame.csproj",
+        "packagesPath": "/Users/gregor-montgomerie/.nuget/packages/",
+        "outputPath": "/Users/gregor-montgomerie/Projects/EloGame/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gregm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/gregor-montgomerie/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,6 +64,10 @@
               "target": "Package",
               "version": "[9.0.9, )"
             },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.22.1, )"
@@ -78,6 +75,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Supabase": {
+              "target": "Package",
+              "version": "[1.1.1, )"
             }
           },
           "imports": [
@@ -99,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/gregor-montgomerie/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

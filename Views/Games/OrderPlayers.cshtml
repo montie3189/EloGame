@@ -20,9 +20,9 @@
             
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
-                    <label asp-for="players[@i]" class="control-label"></label>
-                    <Select asp-for="players[@i]" class="form-control" />
-                    <span asp-validation-for="players[@i]" class="text-danger"></span>
+                    <label asp-for="players[i]" class="control-label"></label>
+                    <select asp-for="players[i]" class="form-control"></select>
+                    <span asp-validation-for="players[i]" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <input type="submit" value="Create" class="btn btn-primary" />
