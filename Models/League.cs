@@ -1,6 +1,6 @@
 ﻿using Microsoft.IdentityModel;
 using System;
-using Microsoft.Identity;
+//using Microsoft.Identity;
 using Microsoft.AspNetCore.Identity;
 
 namespace EloGame.Models
@@ -14,7 +14,7 @@ namespace EloGame.Models
 
         public DateTime Created { get; set; }
 
-        public ApplicationUser? Owner { get; set; }
+        //public ApplicationUser? Owner { get; set; }
 
         public ICollection<LeaguePos> LeaguePositions { get; set; } = new List<LeaguePos>();
     }

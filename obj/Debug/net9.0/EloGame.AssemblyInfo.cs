@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EloGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7e0ecd810dbda93fda92c38a137ff962964d2b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c627520fc6c2ec1dc803c987894e9d655215b4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EloGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EloGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
