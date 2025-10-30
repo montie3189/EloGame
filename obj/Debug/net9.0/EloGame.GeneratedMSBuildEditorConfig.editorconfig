@@ -104,6 +104,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVhZ3Vlcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/gregor-montgomerie/Projects/EloGame/Views/Leagues/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGVhZ3Vlcy9UYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/gregor-montgomerie/Projects/EloGame/Views/Performances/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyZm9ybWFuY2VzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

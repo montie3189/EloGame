@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EloGame.Data;
 using EloGame.Models;
-using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Metadata.Conventions;
+
 
 namespace EloGame.Controllers
 {
@@ -61,7 +57,7 @@ namespace EloGame.Controllers
         public async Task<IActionResult> Create([Bind("Id,time,playerNum,leagueId")] Game game)
         {
 
-            game.time = DateTime.Now;
+            game.time = DateTime.Now.ToUniversalTime();
             if (ModelState.IsValid)
             {
                 game.Id = 0;
@@ -85,7 +81,6 @@ namespace EloGame.Controllers
                 foreach (var league in leaguePos)
                 {
                     players.Add(_context.Player.Where(x => x.Id == league.playerId).First());//ineficient
-
                 }
                 ViewBag.Players = new SelectList(players, "Id", "Name");
                 return View();

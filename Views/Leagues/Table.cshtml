@@ -1,0 +1,21 @@
+@model EloGame.Models.League
+
+@{
+    ViewData["Title"] = "Table";
+}
+
+
+@foreach (var item in Model.LeaguePositions) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Player.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.elo)
+    </td>
+
+    <td>
+        <a asp-controller="LeaguePos" asp-action="Delete" asp-route-id="@item.Id">remove</a>
+    </td>
+</tr>
+}

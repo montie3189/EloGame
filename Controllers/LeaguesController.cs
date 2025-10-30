@@ -24,6 +24,14 @@ namespace EloGame.Controllers
         {
             return View(await _context.League.ToListAsync());
         }
+        
+        // GET: Leagues
+        public async Task<IActionResult> Table(int? id)
+        {
+            var table = await _context.League.Where(x => x.Id == id).FirstAsync();
+            table.LeaguePositions = await _context.LeaguePos.Where(x => x.leagueId == id).ToListAsync();
+            return View(table);
+        }
 
         // GET: Leagues/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -56,6 +64,7 @@ namespace EloGame.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,created,UserId")] League league)
         {
+            league.Created = DateTime.Now.ToUniversalTime();
             if (ModelState.IsValid)
             {
                 _context.Add(league);
